@@ -10,3 +10,15 @@ c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\bin\D
 c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\obj\Debug\Client.exe
 c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\obj\Debug\Client.pdb
+C:\Users\emesalp\Documents\GitHub\ExcelAdapter\Client\bin\Debug\Client.exe.config
+C:\Users\emesalp\Documents\GitHub\ExcelAdapter\Client\obj\Debug\Client.exe
+C:\Users\emesalp\Documents\GitHub\ExcelAdapter\Client\obj\Debug\Client.pdb
+C:\Users\emesalp\Documents\GitHub\ExcelAdapter\Client\bin\Debug\Client.exe
+C:\Users\emesalp\Documents\GitHub\ExcelAdapter\Client\bin\Debug\Client.pdb
+C:\Users\emesalp\Documents\GitHub\ExcelAdapter\Client\bin\Debug\EPPlusExcelAdapter.dll
+C:\Users\emesalp\Documents\GitHub\ExcelAdapter\Client\bin\Debug\ExcelProvider.dll
+C:\Users\emesalp\Documents\GitHub\ExcelAdapter\Client\bin\Debug\EPPlus.dll
+C:\Users\emesalp\Documents\GitHub\ExcelAdapter\Client\bin\Debug\EPPlusExcelAdapter.pdb
+C:\Users\emesalp\Documents\GitHub\ExcelAdapter\Client\bin\Debug\ExcelProvider.pdb
+C:\Users\emesalp\Documents\GitHub\ExcelAdapter\Client\bin\Debug\EPPlus.xml
+C:\Users\emesalp\Documents\GitHub\ExcelAdapter\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
