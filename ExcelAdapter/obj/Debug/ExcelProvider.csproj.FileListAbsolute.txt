@@ -1,0 +1,5 @@
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\ExcelAdapter\bin\Debug\ExcelProvider.dll
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\ExcelAdapter\bin\Debug\ExcelProvider.pdb
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\ExcelAdapter\obj\Debug\ExcelProvider.csprojResolveAssemblyReference.cache
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\ExcelAdapter\obj\Debug\ExcelProvider.dll
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\ExcelAdapter\obj\Debug\ExcelProvider.pdb

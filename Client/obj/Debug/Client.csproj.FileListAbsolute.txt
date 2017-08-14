@@ -1,0 +1,12 @@
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\bin\Debug\Client.exe.config
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\bin\Debug\Client.exe
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\bin\Debug\Client.pdb
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\bin\Debug\EPPlusExcelAdapter.dll
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\bin\Debug\ExcelProvider.dll
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\bin\Debug\EPPlus.dll
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\bin\Debug\EPPlusExcelAdapter.pdb
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\bin\Debug\ExcelProvider.pdb
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\bin\Debug\EPPlus.xml
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\obj\Debug\Client.exe
+c:\users\emesalp\documents\visual studio 2015\Projects\ExcelAdapter\Client\obj\Debug\Client.pdb
